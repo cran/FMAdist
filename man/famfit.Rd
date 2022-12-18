@@ -44,6 +44,8 @@ The model average fitting can be either in the cumulative probability space or q
 }
 \references{
 W. X. Jiang and B. L. Nelson (2018), "Better Input Modeling via Model Averaging," Proceedings of the 2018 Winter Simulation Conference, IEEE Press, 1575-1586.
+
+B.L. Nelson and A.T. Wan and G. Zou and X. Zhang and W. X. Jiang (2021), "Reducing simulation input-model risk via input model averaging," INFORMS Journal on Computing, 33(2), 672-684.
 }
 
 \seealso{
@@ -59,5 +61,5 @@ myfit<-fmafit(data,Fset,J,type)
 }
 % Add one or more standard keywords, see file 'KEYWORDS' in the
 % R documentation directory.
-\keyword{ ~kwd1 }% use one of  RShowDoc("KEYWORDS")
-\keyword{ ~kwd2 }% __ONLY ONE__ keyword per line
+\keyword{input modeling}% use one of  RShowDoc("KEYWORDS")
+
